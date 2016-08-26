@@ -1,2 +1,6 @@
 # hello-world-Excell
-Just a repository
+
+Hi, cyber geeks!
+
+Let's do it!
+Ok!
